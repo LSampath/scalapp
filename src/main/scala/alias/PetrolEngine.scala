@@ -1,0 +1,5 @@
+package alias
+
+class PetrolEngine {
+
+}
